@@ -25,17 +25,6 @@
 * 📊 Love creating **clear visualizations** and **dashboards** that tell a story.
 * 📬 Contact: **[LinkedIn](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)** · **Email**: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4A90E2?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <a href='https://www.kaggle.com/YOUR_USERNAME'><img src='https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white' alt='Kaggle Badge'/></a>
-</p>
 
 ---
 
