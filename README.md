@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Khaled Mohsen**
 
-> Data Analyst & Electrical Engineering Student passionate about Football Analytics, Python, and Back‑End Development.
+> Data Analyst & Electrical Engineering Student passionate about Analytics, Python. 
 > Goal: Build strong analytical models and clean visualizations that drive insights and decision making.
 
 <p align="center">
